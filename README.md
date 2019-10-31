@@ -6,10 +6,11 @@
 ![GitHub Stars](https://img.shields.io/github/stars/sukhdeepg/Hacktoberfest?style=social)
 ![GitHub Contributors](https://img.shields.io/github/contributors/sukhdeepg/Hacktoberfest?style=social)
 
-# Your Favorite Code Snippet
+
+# Your Favorite Code Snippet is here
 Collection of code snippets that can be anything from _hello world_ to _Complex Algo & DS_ (In any programming language).
 
-## How to contribute
+## How to contribute easy steps
 > Begin your program with a comment of why this is your favorite code snippet.
 
 > Code should be readable and properly indented.
